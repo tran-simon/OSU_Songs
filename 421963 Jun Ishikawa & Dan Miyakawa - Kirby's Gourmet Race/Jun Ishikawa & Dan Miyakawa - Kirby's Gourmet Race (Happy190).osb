@@ -1,0 +1,12 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"BYvwM3W.jpg",320,240
+ F,0,73920,74019,0.2154841,0.1907099
+ F,0,74019,74180,0.1907099,0.1411614
+ F,0,74180,74341,0.1411614,0.04206475
+ F,0,74341,74502,0.04206475,0
+//Storyboard Sound Samples

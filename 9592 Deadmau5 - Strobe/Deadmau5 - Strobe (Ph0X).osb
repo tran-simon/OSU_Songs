@@ -1,0 +1,22 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"eyes.png",320,240
+ L,97248,128
+  F,0,0,59,0,1
+  F,0,59,293,1,0
+  F,0,293,469,0
+ M,0,97248,,323,234
+ F,0,97248,,1
+ S,0,97248,,0.5008002
+Sprite,Foreground,Centre,"mau5head.png",320,240
+ M,0,96838,,318,254
+ F,0,96838,97072,0,0.5616
+ S,0,96838,97072,0.2216,0.4776003
+ S,0,97072,97248,0.4776003,0.6118095
+ F,0,97072,97307,0.5616,0
+ S,0,97248,97307,0.6118095,0.6568001
+//Storyboard Sound Samples

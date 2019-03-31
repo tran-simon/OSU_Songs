@@ -1,0 +1,12 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"FOOF.png",320,240
+ F,0,97762,97925,0,1
+ S,0,97925,,5
+ F,0,97925,98577,1
+ F,0,98577,98740,1,0
+//Storyboard Sound Samples
